@@ -6,3 +6,8 @@ body{
 .prueba{
     color: blueviolet;
 }
+.dibujo{
+    height: 10%;
+    width: 10%;
+    border-radius: 50%;
+}   
