@@ -1,5 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 body{
     background: rgb(226, 207, 207);
+    align-items: center;
     
 }
 
@@ -7,14 +15,16 @@ body{
     color: blueviolet;
 }
 .dibujo{
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 30%;
     border-radius: 50%;
+    color: aqua;
+    
 }   
 
 .dibujo2{
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 30%;
     border-radius: 10%;
     display: flex;
     align-items: center;
