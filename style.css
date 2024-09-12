@@ -30,3 +30,14 @@ body{
     align-items: center;
 
 }   
+
+.dibujo3{
+    height: 10%;
+    width: 10%;
+    border-radius: 10%;
+    display: flex;
+    align-items: center;
+    border: red 6chepx solid;
+    margin-top: 5%;
+    box-sizing: 20px;
+}  
